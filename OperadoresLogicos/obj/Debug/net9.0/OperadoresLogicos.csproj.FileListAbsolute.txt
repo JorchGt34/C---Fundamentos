@@ -1,0 +1,15 @@
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/C#Fundamentos/OperadoresLogicos/bin/Debug/net9.0/OperadoresLogicos
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/C#Fundamentos/OperadoresLogicos/bin/Debug/net9.0/OperadoresLogicos.deps.json
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/C#Fundamentos/OperadoresLogicos/bin/Debug/net9.0/OperadoresLogicos.runtimeconfig.json
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/C#Fundamentos/OperadoresLogicos/bin/Debug/net9.0/OperadoresLogicos.dll
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/C#Fundamentos/OperadoresLogicos/bin/Debug/net9.0/OperadoresLogicos.pdb
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/C#Fundamentos/OperadoresLogicos/obj/Debug/net9.0/OperadoresLogicos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/C#Fundamentos/OperadoresLogicos/obj/Debug/net9.0/OperadoresLogicos.AssemblyInfoInputs.cache
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/C#Fundamentos/OperadoresLogicos/obj/Debug/net9.0/OperadoresLogicos.AssemblyInfo.cs
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/C#Fundamentos/OperadoresLogicos/obj/Debug/net9.0/OperadoresLogicos.csproj.CoreCompileInputs.cache
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/C#Fundamentos/OperadoresLogicos/obj/Debug/net9.0/OperadoresLogicos.sourcelink.json
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/C#Fundamentos/OperadoresLogicos/obj/Debug/net9.0/OperadoresLogicos.dll
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/C#Fundamentos/OperadoresLogicos/obj/Debug/net9.0/refint/OperadoresLogicos.dll
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/C#Fundamentos/OperadoresLogicos/obj/Debug/net9.0/OperadoresLogicos.pdb
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/C#Fundamentos/OperadoresLogicos/obj/Debug/net9.0/OperadoresLogicos.genruntimeconfig.cache
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/C#Fundamentos/OperadoresLogicos/obj/Debug/net9.0/ref/OperadoresLogicos.dll
