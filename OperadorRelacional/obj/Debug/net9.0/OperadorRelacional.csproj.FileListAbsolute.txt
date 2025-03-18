@@ -1,0 +1,15 @@
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/C#Fundamentos/OperadorRelacional/bin/Debug/net9.0/OperadorRelacional
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/C#Fundamentos/OperadorRelacional/bin/Debug/net9.0/OperadorRelacional.deps.json
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/C#Fundamentos/OperadorRelacional/bin/Debug/net9.0/OperadorRelacional.runtimeconfig.json
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/C#Fundamentos/OperadorRelacional/bin/Debug/net9.0/OperadorRelacional.dll
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/C#Fundamentos/OperadorRelacional/bin/Debug/net9.0/OperadorRelacional.pdb
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/C#Fundamentos/OperadorRelacional/obj/Debug/net9.0/OperadorRelacional.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/C#Fundamentos/OperadorRelacional/obj/Debug/net9.0/OperadorRelacional.AssemblyInfoInputs.cache
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/C#Fundamentos/OperadorRelacional/obj/Debug/net9.0/OperadorRelacional.AssemblyInfo.cs
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/C#Fundamentos/OperadorRelacional/obj/Debug/net9.0/OperadorRelacional.csproj.CoreCompileInputs.cache
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/C#Fundamentos/OperadorRelacional/obj/Debug/net9.0/OperadorRelacional.sourcelink.json
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/C#Fundamentos/OperadorRelacional/obj/Debug/net9.0/OperadorRelacional.dll
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/C#Fundamentos/OperadorRelacional/obj/Debug/net9.0/refint/OperadorRelacional.dll
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/C#Fundamentos/OperadorRelacional/obj/Debug/net9.0/OperadorRelacional.pdb
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/C#Fundamentos/OperadorRelacional/obj/Debug/net9.0/OperadorRelacional.genruntimeconfig.cache
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/C#Fundamentos/OperadorRelacional/obj/Debug/net9.0/ref/OperadorRelacional.dll
