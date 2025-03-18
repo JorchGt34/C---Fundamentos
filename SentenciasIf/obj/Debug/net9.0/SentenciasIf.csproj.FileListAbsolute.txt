@@ -1,0 +1,15 @@
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/C#Fundamentos/SentenciasIf/bin/Debug/net9.0/SentenciasIf
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/C#Fundamentos/SentenciasIf/bin/Debug/net9.0/SentenciasIf.deps.json
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/C#Fundamentos/SentenciasIf/bin/Debug/net9.0/SentenciasIf.runtimeconfig.json
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/C#Fundamentos/SentenciasIf/bin/Debug/net9.0/SentenciasIf.dll
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/C#Fundamentos/SentenciasIf/bin/Debug/net9.0/SentenciasIf.pdb
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/C#Fundamentos/SentenciasIf/obj/Debug/net9.0/SentenciasIf.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/C#Fundamentos/SentenciasIf/obj/Debug/net9.0/SentenciasIf.AssemblyInfoInputs.cache
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/C#Fundamentos/SentenciasIf/obj/Debug/net9.0/SentenciasIf.AssemblyInfo.cs
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/C#Fundamentos/SentenciasIf/obj/Debug/net9.0/SentenciasIf.csproj.CoreCompileInputs.cache
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/C#Fundamentos/SentenciasIf/obj/Debug/net9.0/SentenciasIf.sourcelink.json
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/C#Fundamentos/SentenciasIf/obj/Debug/net9.0/SentenciasIf.dll
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/C#Fundamentos/SentenciasIf/obj/Debug/net9.0/refint/SentenciasIf.dll
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/C#Fundamentos/SentenciasIf/obj/Debug/net9.0/SentenciasIf.pdb
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/C#Fundamentos/SentenciasIf/obj/Debug/net9.0/SentenciasIf.genruntimeconfig.cache
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/C#Fundamentos/SentenciasIf/obj/Debug/net9.0/ref/SentenciasIf.dll
