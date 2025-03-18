@@ -1,0 +1,15 @@
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/C#Fundamentos/StringC#/bin/Debug/net9.0/StringC#
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/C#Fundamentos/StringC#/bin/Debug/net9.0/StringC#.deps.json
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/C#Fundamentos/StringC#/bin/Debug/net9.0/StringC#.runtimeconfig.json
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/C#Fundamentos/StringC#/bin/Debug/net9.0/StringC#.dll
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/C#Fundamentos/StringC#/bin/Debug/net9.0/StringC#.pdb
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/C#Fundamentos/StringC#/obj/Debug/net9.0/StringC#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/C#Fundamentos/StringC#/obj/Debug/net9.0/StringC#.AssemblyInfoInputs.cache
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/C#Fundamentos/StringC#/obj/Debug/net9.0/StringC#.AssemblyInfo.cs
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/C#Fundamentos/StringC#/obj/Debug/net9.0/StringC#.csproj.CoreCompileInputs.cache
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/C#Fundamentos/StringC#/obj/Debug/net9.0/StringC#.sourcelink.json
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/C#Fundamentos/StringC#/obj/Debug/net9.0/StringC#.dll
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/C#Fundamentos/StringC#/obj/Debug/net9.0/refint/StringC#.dll
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/C#Fundamentos/StringC#/obj/Debug/net9.0/StringC#.pdb
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/C#Fundamentos/StringC#/obj/Debug/net9.0/StringC#.genruntimeconfig.cache
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/C#Fundamentos/StringC#/obj/Debug/net9.0/ref/StringC#.dll
