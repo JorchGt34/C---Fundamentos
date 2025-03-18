@@ -1,0 +1,15 @@
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/C#Fundamentos/obj/Debug/net9.0/C#Fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/C#Fundamentos/obj/Debug/net9.0/C#Fundamentos.AssemblyInfoInputs.cache
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/C#Fundamentos/obj/Debug/net9.0/C#Fundamentos.AssemblyInfo.cs
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/C#Fundamentos/obj/Debug/net9.0/C#Fundamentos.csproj.CoreCompileInputs.cache
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/C#Fundamentos/obj/Debug/net9.0/C#Fundamentos.sourcelink.json
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/C#Fundamentos/bin/Debug/net9.0/C#Fundamentos
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/C#Fundamentos/bin/Debug/net9.0/C#Fundamentos.deps.json
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/C#Fundamentos/bin/Debug/net9.0/C#Fundamentos.runtimeconfig.json
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/C#Fundamentos/bin/Debug/net9.0/C#Fundamentos.dll
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/C#Fundamentos/bin/Debug/net9.0/C#Fundamentos.pdb
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/C#Fundamentos/obj/Debug/net9.0/C#Fundamentos.dll
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/C#Fundamentos/obj/Debug/net9.0/refint/C#Fundamentos.dll
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/C#Fundamentos/obj/Debug/net9.0/C#Fundamentos.pdb
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/C#Fundamentos/obj/Debug/net9.0/C#Fundamentos.genruntimeconfig.cache
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/C#Fundamentos/obj/Debug/net9.0/ref/C#Fundamentos.dll
