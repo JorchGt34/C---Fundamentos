@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SentenciaSwitch")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f4f3c251982d5057d20f7cffc554a22ad7c325f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f2d6480dbdeb8e68c458a9c01ee2bfd1fd113a35")]
 [assembly: System.Reflection.AssemblyProductAttribute("SentenciaSwitch")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SentenciaSwitch")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

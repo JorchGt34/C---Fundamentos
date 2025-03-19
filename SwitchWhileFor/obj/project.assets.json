@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jorgemontoyaprieto/Desktop/GitHubRepos/C#Fundamentos/SwitchYWhile/SentenciaSwitch.csproj",
+      "projectUniqueName": "/Users/jorgemontoyaprieto/Desktop/GitHubRepos/C#Fundamentos/SwitchWhileFor/SentenciaSwitch.csproj",
       "projectName": "SentenciaSwitch",
-      "projectPath": "/Users/jorgemontoyaprieto/Desktop/GitHubRepos/C#Fundamentos/SwitchYWhile/SentenciaSwitch.csproj",
+      "projectPath": "/Users/jorgemontoyaprieto/Desktop/GitHubRepos/C#Fundamentos/SwitchWhileFor/SentenciaSwitch.csproj",
       "packagesPath": "/Users/jorgemontoyaprieto/.nuget/packages/",
-      "outputPath": "/Users/jorgemontoyaprieto/Desktop/GitHubRepos/C#Fundamentos/SwitchYWhile/obj/",
+      "outputPath": "/Users/jorgemontoyaprieto/Desktop/GitHubRepos/C#Fundamentos/SwitchWhileFor/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/jorgemontoyaprieto/.nuget/NuGet/NuGet.Config"
